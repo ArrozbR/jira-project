@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Jira</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://dioprojectswaglabs.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">SCRUM-2</a>)</span>
+                <h3 class="formtitle"><img src="https://dioprojectswaglabs.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SCRUM-4]&nbsp;<a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-4">Finalizar novas funcionalidades do Swag Labs</a>
+            <span class="subText">
+               Criado: 27/mai/25                   &nbsp;Atualizado(a): 27/mai/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/secure/BrowseProject.jspa?id=10000">Swag Labs DIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_reporter_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_assignee_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10003-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10003-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000n:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10003-value" class="value" bgcolor="#ffffff" width="80%">Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10003-value" class="value" bgcolor="#ffffff" width="80%">    8
+</td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">SCRUM-2</a>)</span>
+                <h3 class="formtitle"><img src="https://dioprojectswaglabs.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SCRUM-3]&nbsp;<a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-3">Criar uma funcionalidade para criação de conta dentro do Swag Labs</a>
+            <span class="subText">
+               Criado: 27/mai/25                   &nbsp;Atualizado(a): 27/mai/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/secure/BrowseProject.jspa?id=10000">Swag Labs DIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_reporter_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_assignee_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10002-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10002-value" class="value" bgcolor="#ffffff" width="80%">      0|i0000f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10002-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Título:</b> Criar uma funcionalidade para criação de conta dentro do Swag Labs</p>
+
+<p><b>Como um</b> novo usuário que deseja utilizar o Swag Labs, <b>Eu quero</b> poder me registrar e criar uma nova conta fornecendo as informações necessárias (como nome de usuário, senha e, opcionalmente, outros dados que o sistema possa vir a solicitar), <b>Para que</b> eu possa ter credenciais de acesso válidas e, futuramente, simular o processo de compra e outras interações como um usuário autenticado na plataforma.</p>
+
+<p><b>Critérios de Aceite:</b></p>
+
+<ol>
+	<li><b>Dado que</b> um novo usuário está na página de login do Swag Labs, <b>Então</b> ele deve visualizar um link ou botão claramente identificado para "Criar Conta", "Registrar-se" ou similar.</li>
+	<li><b>Dado que</b> o usuário clica no link/botão de "Criar Conta", <b>Então</b> ele é direcionado para um formulário de registro.</li>
+	<li><b>Dado que</b> o usuário está no formulário de registro, <b>Então</b> campos para, no mínimo, <tt>Nome de Usuário</tt> (Username) e <tt>Senha</tt> (Password) devem estar presentes e serem obrigatórios.
+	<ul>
+		<li><em>(Opcional, dependendo da profundidade da simulação):</em> Podem existir campos adicionais como <tt>Primeiro Nome</tt>, <tt>Último Nome</tt>, <tt>Email</tt> ou <tt>CEP</tt> (similar aos campos do checkout).</li>
+	</ul>
+	</li>
+	<li><b>Dado que</b> o usuário preenche o formulário de registro, <b>Então</b> deve haver validação nos campos (ex: campos obrigatórios não preenchidos, formato de senha, etc.).</li>
+	<li><b>Dado que</b> o usuário submete o formulário com informações válidas e um nome de usuário que <em>não</em> está na lista de usuários padrão (<tt>standard_user</tt>, <tt>locked_out_user</tt>, etc.), <b>Então</b> uma "nova conta" é simulada/criada no sistema (mesmo que apenas em sessão ou de forma temporária, dado o contexto do Swag Labs).</li>
+	<li><b>Dado que</b> a conta foi "criada" com sucesso, <b>Então</b> o usuário é preferencialmente redirecionado para a página de login com uma mensagem de sucesso (ex: "Conta criada com sucesso! Por favor, faça o login.") OU, alternativamente, é automaticamente logado e redirecionado para a página de inventário de produtos (<tt>/inventory.html</tt>).</li>
+	<li><b>Dado que</b> o usuário tenta registrar um nome de usuário que já existe (ex: <tt>standard_user</tt>), <b>Então</b> uma mensagem de erro apropriada é exibida informando que o nome de usuário já está em uso, e a conta não é criada.</li>
+	<li><b>Dado que</b> o usuário submete o formulário com dados inválidos (ex: senha muito curta, campos obrigatórios em branco), <b>Então</b> mensagens de erro específicas devem ser exibidas próximo aos campos correspondentes ou em um sumário de erros no formulário.</li>
+	<li><em>(Opcional, pós-criação)</em> <b>Dado que</b> o usuário criou uma nova conta com sucesso e faz login com essas novas credenciais (se não foi logado automaticamente), <b>Então</b> ele consegue acessar a página de inventário de produtos e interagir com a loja.</li>
+</ol>
+
+
+<hr />
+
+<p><b>Observações Adicionais (Opcional):</b></p>
+
+<ul>
+	<li><b>Contexto do Swag Labs:</b> Como o Swag Labs geralmente opera com um conjunto fixo de usuários para demonstração, a "criação de conta" pode ser uma simulação que não altera permanentemente o backend, ou que adiciona o usuário a uma lista temporária/em memória. O importante é o fluxo e a interface.</li>
+	<li><b>Valor:</b> Permitir o teste de fluxos de registro e login com usuários "novos", além dos usuários padrão.</li>
+	<li><b>Validação de Senha:</b> Considerar se haverá requisitos mínimos para a senha (comprimento, caracteres especiais, etc.) e se mensagens claras serão exibidas.</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [SCRUM-2]&nbsp;<a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a>
+            <span class="subText">
+               Criado: 27/mai/25                   &nbsp;Atualizado(a): 27/mai/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Em andamento</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/secure/BrowseProject.jspa?id=10000">Swag Labs DIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Epic
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_reporter_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_assignee_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10001-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10001-value" class="value" bgcolor="#ffffff" width="80%">      0|i00007:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Issue color:</b></td>
+                <td id="customfield_10017-10001-value" class="value" bgcolor="#ffffff" width="80%">      purple
+  </td>
+            </tr>
+            </table>
+
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">SCRUM-2</a>)</span>
+                <h3 class="formtitle"><img src="https://dioprojectswaglabs.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [SCRUM-1]&nbsp;<a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-1">Remover a página de login como tela inicial para o usuário</a>
+            <span class="subText">
+               Criado: 27/mai/25                   &nbsp;Atualizado(a): 27/mai/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Pronto pra QA</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/secure/BrowseProject.jspa?id=10000">Swag Labs DIO</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://dioprojectswaglabs.atlassian.net/browse/SCRUM-2">Mudanças no Swag Labs</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_reporter_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                id="word_assignee_70121:791624a4-ae35-4d2d-8469-826a74035c82"
+                href="https://dioprojectswaglabs.atlassian.net/secure/ViewProfile.jspa?accountId=70121%3A791624a4-ae35-4d2d-8469-826a74035c82">
+                    Pedro Blamires
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10000-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10000-value" class="value" bgcolor="#ffffff" width="80%">      0|hzzzzz:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10000-value" class="value" bgcolor="#ffffff" width="80%"></td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10000-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Título:</b> Remover a página de login como tela inicial para o usuário</p>
+
+<p><b>Como um</b> novo usuário (ou usuário não autenticado/visitante), <b>Eu quero</b> ser direcionado para uma página inicial pública (ou página de boas-vindas/exploração) ao invés da página de login quando acesso a aplicação pela primeira vez ou quando não estou logado, <b>Para que</b> eu possa descobrir o que a aplicação oferece e explorar seu conteúdo público antes de precisar criar uma conta ou me autenticar.</p>
+
+<p><b>Critérios de Aceite:</b></p>
+
+<ol>
+	<li><b>Dado que</b> um usuário não está logado <b>e</b> acessa a URL raiz da aplicação, <b>Então</b> ele deve ser redirecionado para a nova página inicial designada (ex: <tt>/home</tt>, <tt>/dashboard-publico</tt>, <tt>/bem-vindo</tt>) e não para a página de login (<tt>/login</tt>).</li>
+	<li><b>Dado que</b> o usuário está na nova página inicial pública, <b>Então</b> deve haver um link/botão claro e visível para "Login" ou "Entrar", permitindo que ele navegue para a página de login caso deseje.</li>
+	<li><b>Dado que</b> o usuário está na nova página inicial pública, <b>Então</b> (se aplicável) deve haver um link/botão claro e visível para "Registrar-se" ou "Criar Conta".</li>
+	<li><b>Dado que</b> a nova página inicial pública é exibida, <b>Então</b> ela deve apresentar informações relevantes, funcionalidades exploráveis ou um resumo do valor da aplicação.</li>
+	<li><b>Dado que</b> um usuário tenta acessar uma área restrita da aplicação sem estar logado, <b>Então</b> ele ainda deve ser redirecionado para a página de login.</li>
+	<li><b>Dado que</b> um usuário já autenticado acessa a aplicação (ex: através de um marcador com sessão ativa), <b>Então</b> ele deve ser direcionado para sua área logada apropriada (ex: dashboard pessoal), e não para a página inicial pública (esse comportamento não deve ser alterado negativamente por esta história).</li>
+	<li>A página de login original ainda deve ser acessível diretamente por sua URL específica (ex: <tt>/login</tt>) para casos onde o usuário é explicitamente direcionado para lá (ex: link de "Sessão Expirada").</li>
+</ol>
+
+
+<hr />
+
+<p><b>Observações Adicionais (Opcional):</b></p>
+
+<ul>
+	<li><b>Valor para o Negócio:</b> Aumentar o engajamento de novos usuários, permitindo que conheçam a plataforma antes de se comprometerem com um login/registro. Potencial redução na taxa de rejeição inicial.</li>
+	<li><b>Dependências:</b> Pode depender da criação ou design da nova página inicial pública.</li>
+	<li><b>Considerações de UX/UI:</b> A nova página inicial deve ser intuitiva e guiar o usuário para as próximas ações desejadas (explorar, registrar, logar).</li>
+</ul>
+
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+<hr class='fullcontent'><br /><br style='page-break-before:always;'/><br />Gerado em Tue May 27 12:30:50 UTC 2025 por Pedro Blamires usando JIRA 1001.0.0-SNAPSHOT#100283-rev:15435d129cb1a30ba28212368930b42613458e3f.
+
+</body>
+</html>
